@@ -1,0 +1,28 @@
+body {
+    background-color: slategray;
+}
+h1 {
+    text-align: center;
+}
+#searchInput {
+    justify-content: center;
+    display: flex;
+    margin: auto;
+}
+#superHero {
+    text-align: center;
+    
+}
+button {
+    justify-content: center;
+    display: flex;
+    margin: auto;
+    border: solid;
+    border-color: navy;
+}
+img {
+    justify-content: center;
+    display: flex;
+    margin: auto;
+    margin-top: 100px;
+}   
